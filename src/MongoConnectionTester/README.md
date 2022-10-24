@@ -16,11 +16,7 @@ The app idles, and does not do any operations.
             "Thumbprint": "",
             "PfxName": "/path/to/client-certificate.pfx",
             "PfxPassword": "verysecret"
-        },
-        "WriteConcern":"W1",
-        "TcpSendTimeout": 1000,
-        "TcpReceiveTimeout": 1000,
-        "ValidateServerWithCa": false
+        }
     }
 }
 ```
