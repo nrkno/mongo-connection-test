@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10. App", "10. App", "{F696E3E9-AFC7-4E42-9799-81308B331CD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoConnectionTester", "MongoConnectionTester\MongoConnectionTester.csproj", "{74BE2E57-6BB2-44AF-958D-27EFE4BC83C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74BE2E57-6BB2-44AF-958D-27EFE4BC83C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BE2E57-6BB2-44AF-958D-27EFE4BC83C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74BE2E57-6BB2-44AF-958D-27EFE4BC83C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74BE2E57-6BB2-44AF-958D-27EFE4BC83C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{74BE2E57-6BB2-44AF-958D-27EFE4BC83C9} = {F696E3E9-AFC7-4E42-9799-81308B331CD0}
+	EndGlobalSection
+EndGlobal
